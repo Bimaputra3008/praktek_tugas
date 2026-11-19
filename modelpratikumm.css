@@ -470,3 +470,17 @@ textarea:focus {
     }
 
 }
+
+.avatar-box {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.foto-profil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid white;
+}
